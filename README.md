@@ -1,1 +1,1 @@
-#  https://nsamoilova.github.io/card/slider/index.html
+#  https://nsamoilova.github.io/nsamoilova/slider/main/index.html
